@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "a free and open source software for tracking changes to code."
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "Git hub is a cloud based network for storing and retrieving files aiding in collaboration and storage access."
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "git init creates a local repository"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "clones a repository"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "lets you know the status of your git files."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,7 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = "creates a grab of a change or update"
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +64,8 @@
 */
 
 //CODE HERE
-
-
+let gitCommitDefinition = "adds a change to your working directory. Should be done at git add ."
+let gitCommitCode = "git init"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +73,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = " send the latest version to the remote repository of your choice"
